@@ -49,12 +49,12 @@ body {
 }
 
 .container-flex .card-container {
-  width: 330px;
-  height: 400px;
+  width: 380px;
+  height: 500px;
   padding: 2rem;
   display: flex;
   transition: .5s;
-  font-size: 1.3rem;
+  font-size: 2rem;
   border-radius: 1rem;
   align-items: center;
   flex-direction: column;
